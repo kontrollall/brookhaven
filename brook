@@ -1,0 +1,823 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+local Window = Library:NewWindow("Script")
+ 
+local Tab = Window:NewSection("Credits: TGMANKASKE")
+ 
+Tab:CreateToggle("+1 hour", function(no)
+_G.GetWins = no
+while _G.GetWins== true do
+    wait() 
+print("Give credits to KMAN || KontrollAll || TGMANKASKE")
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+
+local args = {
+	workspace:WaitForChild("Camera"):WaitForChild("Part"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("Handle"),
+	vector.create(0, 0.22499999403953552, -1),
+	vector.create(-81.16363525390625, 4.5230255126953125, -110.77501678466797),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("MuzzleEffect"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Glock"):WaitForChild("GunScript_Local"):WaitForChild("HitEffect"),
+	960985727251855,
+	1401819927495870,
+	{
+		false
+	},
+	{
+		2522,
+		vector.create(0.25, 0.25, 100),
+		BrickColor.new(24),
+		0.25,
+		Enum.Material.SmoothPlastic,
+		0.25
+	},
+	true,
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Gu1n"):FireServer(unpack(args))
+
+
+end
+end)
